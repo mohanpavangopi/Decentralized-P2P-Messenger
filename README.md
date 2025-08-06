@@ -1,4 +1,4 @@
-# 💬 Decentralized P2P Messenger (Blockchain)
+# 💬 Decentralized P2P Messenger (Blockchain) -ONGOING
 
 A secure peer-to-peer chat application designed to eliminate reliance on centralized servers. This project uses blockchain technology as a decentralized public key directory, enabling trustless and encrypted communication between users.
 
@@ -21,11 +21,3 @@ A secure peer-to-peer chat application designed to eliminate reliance on central
 
 ---
 
-## 🧪 How to Run (Basic Version)
-
-> ⚠️ This is an early-stage prototype. Steps will evolve with development.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohanpavangopi/p2p-messenger.git
-   cd p2p-messenger
